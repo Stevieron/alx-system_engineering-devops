@@ -1,1 +1,1 @@
-Script to list the folder content list
+Script to return to home dir
