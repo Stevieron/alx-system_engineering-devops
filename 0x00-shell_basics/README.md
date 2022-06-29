@@ -1,1 +1,1 @@
-Script to display current working directory
+Script to list the folder content list
